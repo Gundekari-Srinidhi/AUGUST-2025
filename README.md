@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0260-single-number-iii) |
+| [0347-top-k-frequent-elements](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0347-top-k-frequent-elements) |
 | [0837-most-common-word](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0948-sort-an-array) |
 ## Bit Manipulation
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0948-sort-an-array) |
 ## Math
 |  |
@@ -40,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -52,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -61,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0948-sort-an-array) |
@@ -76,10 +82,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0837-most-common-word) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0387-first-unique-character-in-a-string) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
