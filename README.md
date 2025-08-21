@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0948-sort-an-array) |
 ## Bit Manipulation
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0948-sort-an-array) |
 ## Linked List
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0837-most-common-word) |
 ## Queue
 |  |
@@ -96,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
