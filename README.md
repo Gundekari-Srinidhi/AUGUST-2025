@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0837-most-common-word) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Simulation
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0837-most-common-word) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0948-sort-an-array) |
 ## Linked List
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0837-most-common-word) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Queue
 |  |
 | ------- |
