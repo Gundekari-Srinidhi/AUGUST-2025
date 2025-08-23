@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0067-add-binary) |
+| [0900-reordered-power-of-2](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0900-reordered-power-of-2) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0692-top-k-frequent-words) |
+| [0900-reordered-power-of-2](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0837-most-common-word) |
+| [0900-reordered-power-of-2](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0948-sort-an-array) |
 ## Linked List
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0837-most-common-word) |
+| [0900-reordered-power-of-2](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Queue
 |  |
@@ -127,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0692-top-k-frequent-words) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
