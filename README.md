@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0692-top-k-frequent-words) |
+| [0829-subdomain-visit-count](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0692-top-k-frequent-words) |
+| [0829-subdomain-visit-count](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Simulation
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0692-top-k-frequent-words) |
+| [0829-subdomain-visit-count](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0837-most-common-word) |
 | [0900-reordered-power-of-2](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0692-top-k-frequent-words) |
+| [0829-subdomain-visit-count](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0837-most-common-word) |
 | [0900-reordered-power-of-2](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0920-uncommon-words-from-two-sentences) |
