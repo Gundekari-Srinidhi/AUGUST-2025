@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0260-single-number-iii) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
