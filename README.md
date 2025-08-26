@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0137-single-number-ii) |
+| [0204-count-primes](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0594-longest-harmonious-subsequence) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 ## String
@@ -150,9 +152,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0900-reordered-power-of-2) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0204-count-primes) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
