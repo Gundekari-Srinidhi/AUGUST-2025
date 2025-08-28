@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2083-three-divisors](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -167,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0897-prime-palindrome) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2083-three-divisors](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
