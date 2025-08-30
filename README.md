@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0897-prime-palindrome) |
 | [0900-reordered-power-of-2](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1307-ugly-number-iii](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/1307-ugly-number-iii) |
 | [2083-three-divisors](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## String
@@ -168,6 +169,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0258-add-digits) |
 | [0897-prime-palindrome](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0897-prime-palindrome) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1307-ugly-number-iii](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/1307-ugly-number-iii) |
 | [2083-three-divisors](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/1307-ugly-number-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/1307-ugly-number-iii) |
 <!---LeetCode Topics End-->
