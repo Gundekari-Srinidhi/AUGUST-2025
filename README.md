@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-ugly-number-iii](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/1307-ugly-number-iii) |
 | [2083-three-divisors](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2491-smallest-even-multiple) |
 ## String
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-ugly-number-iii](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/1307-ugly-number-iii) |
 | [2083-three-divisors](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2491-smallest-even-multiple) |
 ## Binary Search
 |  |
 | ------- |
