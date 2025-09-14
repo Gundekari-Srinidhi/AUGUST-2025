@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2722-prime-in-diagonal](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2722-prime-in-diagonal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2507-number-of-common-factors) |
+| [2722-prime-in-diagonal](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2722-prime-in-diagonal) |
 ## String
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2507-number-of-common-factors) |
+| [2722-prime-in-diagonal](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2722-prime-in-diagonal) |
 ## Binary Search
 |  |
 | ------- |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1307-ugly-number-iii](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/1307-ugly-number-iii) |
+## Matrix
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/Gundekari-Srinidhi/AUGUST-2025/tree/master/2722-prime-in-diagonal) |
 <!---LeetCode Topics End-->
